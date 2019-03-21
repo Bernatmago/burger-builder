@@ -7,6 +7,6 @@
 npm install
 npm start
 ```
-3. Go to [localhost:3000](localhost:3000)
+3. Go to [http://localhost:3000/](http://localhost:3000/)
 
 Enjoy!
